@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🚀 About Me<br>- 🎓 B.Tech in **Computer Science (AI/ML)**<br>- 🤖 Passionate about **Machine Learning & Deep Learning**<br>- 🔭 Currently working on **Healthcare AI Projects**<br>- 🧠 Improving **DSA & Competitive Programming**<br>- 💬 Ask me about **Python, ML, CNN, Medical AI**<br>- 📫 Reach me at: **tharshvardhan2@gmail.com**
+### 🚀 About Me<br>- 🎓 B.Tech in **Computer Science (AI/ML)**<br>- 🤖 Passionate about **Machine Learning & Deep Learning**<br>- 🔭 Currently working on **Lung Diseases Detection System Using CNN**<br>- 🧠 Improving **DSA & Competitive Programming**<br>- 💬 Ask me about **Python, ML, CNN, Medical AI**<br>- 📫 Reach me at: **tharshvardhan2@gmail.com**
 
 
 ## 🌐 Socials:
@@ -20,5 +20,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Deghost214&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">LinkedIn</a> |
+<a href="https://github.com/YOUR_USERNAME" target="blank">GitHub</a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
