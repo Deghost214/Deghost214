@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🚀 About Me<br>- 🎓 B.Tech in **Computer Science (AI/ML)**<br>- 🤖 Passionate about **Machine Learning & Deep Learning**<br>- 🔭 Currently working on **Lung Diseases Detection System Using CNN**<br>- 🧠 Improving **DSA & Competitive Programming**<br>- 💬 Ask me about **Python, ML, CNN, Medical AI**<br>- 📫 Reach me at: **tharshvardhan2@gmail.com**
+### 🚀 About Me<br>- 🎓 B.Tech in **Computer Science (AI/ML)**<br>- 🤖 Passionate about **Machine Learning & Deep Learning**<br>- 🔭 Currently working on **Lung Diseases Detection System Using CNN**<br>- 🧠 Improving **Data Structure and Alogorithms**<br>- 💬 Ask me about **AIML/Frontend Development(React)/DSA**<br>- 📫 Reach me at: **tharshvardhan2@gmail.com**
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deghost214&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deghost214&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Deghost214&limit=5&theme=dark&combine_all_yearly_contributions=true)
